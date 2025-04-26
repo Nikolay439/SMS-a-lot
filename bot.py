@@ -16,10 +16,10 @@ import time
 from telegram.error import Conflict
 
 # ======== НАСТРОЙКИ ========
-BOT_TOKEN = "7590796088:AAFeSBZO3RImkrokG51G8RJbr8WY-3ALR4A"
-EMAIL_ACCOUNT = "saurtuntuntuntun43@gmail.com"
-EMAIL_PASSWORD = "lgrb fwrf uayt xzoh"
-PASSWORD = "2010"
+BOT_TOKEN = "telegramm token"
+EMAIL_ACCOUNT = "emeil"
+EMAIL_PASSWORD = "password application"
+PASSWORD = "your password"
 
 # ======== ИНИЦИАЛИЗАЦИЯ ========
 logging.basicConfig(
