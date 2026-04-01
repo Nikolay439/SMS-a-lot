@@ -13,9 +13,14 @@ What is he doing:
 • Checking notifications
 • Automatic sending of messages
 
-Important:
-Do not abuse it — frequent sending may lead to blocking by mail services.
+#Important: Do not abuse it — frequent sending may lead to blocking by mail services.
 
-the command to enter in the console
-# pip install python-telegram-bot
-# pip install python-dotenv
+#DON'T FORGET TO INSERT YOUR EMAIL AND PASSWORD IN THE SPECIFIED PLACES IN THE CODE.
+
+#ALSO where to run it:
+https://youtu.be/vUgaOp-x1V0?si=WbcYCb6VZoElTkyT
+
+#the command to enter in the console:
+pip install python-telegram-bot
+pip install python-dotenv
+
